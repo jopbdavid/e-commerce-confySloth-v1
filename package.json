@@ -47,7 +47,7 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "netlify-cli": "^12.1.0"
-  }
+  // "devDependencies": {
+  //   "netlify-cli": "^12.1.0"
+  // }
 }
